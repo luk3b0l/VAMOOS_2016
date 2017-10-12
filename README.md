@@ -20,7 +20,7 @@ Languages used: HTML, CSS, PHP and SQL(for storing data about Officials).
   
 <br>
 <br>
-===============================================================  
+=============================================================== <br>
 VAMOOS SYSTEM [installation guide]:
 
 1. Download EasyPHP development platform from:
