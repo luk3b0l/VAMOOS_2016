@@ -16,7 +16,8 @@ The VAMOOS system can handle data about:
 The system was created using EasyPHP WAMP Stack platform with the CodeIgniter framework and Grocery CRUD library. 
 
 Languages used: HTML, CSS, PHP and SQL(for storing data about Officials). 
-
+  
+    
 
 ===============================================================  
 VAMOOS SYSTEM [installation guide]:
