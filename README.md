@@ -18,7 +18,7 @@ The system was created using EasyPHP WAMP Stack platform with the CodeIgniter fr
 Languages used: HTML, CSS, PHP and SQL(for storing data about Officials). 
 
 
-=============================================================== 
+===============================================================  
 VAMOOS SYSTEM [installation guide]:
 
 1. Download EasyPHP development platform from:
