@@ -2,10 +2,11 @@
 
 This is a group project, completed for the Computer Science Development Exercise module in the 2015-16 academic year. My group scored 93%, which was the second best final mark across all students' groups. I was responsible for most of the back-end and front-end parts of the system, with a main concentration on a correct functionality followed by the client's User Acceptance Testing(UAT). I also focused on the User Interface Design, based on the Nielsen's 10 Usability Heuristic Principles including visibility of system status, error prevention, aestetic and minimalist design, as well as help and documentation. 
 <br><br>
+
 The main functions of the system are to:
 - manage the authorisations which allow Officials to enter Rio Olympic venues for sports events,
 - respond to and log results of requests to enter venues by Officials.
-<br><br>
+  
 The VAMOOS system can handle data about:
 - the Officials and their ID cards, sports, their events and event venues,
 - authorisation of cards to enter venues,
@@ -20,7 +21,7 @@ Languages used: HTML, CSS, PHP and SQL(for storing data about Officials).
   
 <br>
 <br>
-=============================================================== <br>
+===============================================================<br>
 VAMOOS SYSTEM [installation guide]:
 
 1. Download EasyPHP development platform from:
