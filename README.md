@@ -1,5 +1,16 @@
 # Venue Access Management for Olympic Officials System(VAMOOS) 2016
 
+## Contents
+
+1. Project Description
+2. System Look
+3. Installation
+4. The Repository
+5. Future Development
+6. Help
+
+
+## 1. Project Description  
 This is a group project, completed for the Computer Science Development Exercise module in the 2015-16 academic year. My group scored 93%, which was the second best final mark across all students' groups. I was responsible for most of the back-end and front-end parts of the system, with a main concentration on a correct functionality followed by the client's User Acceptance Testing(UAT). I also focused on the User Interface Design, based on the Nielsen's 10 Usability Heuristic Principles including visibility of system status, error prevention, aestetic and minimalist design, as well as help and documentation. 
 <br><br>
 
@@ -13,23 +24,21 @@ The VAMOOS system can handle data about:
 - response to requests by a card to enter a venue for an event,
 - the log of actual entries to venues by Officials.
 
-
 The system was created using EasyPHP WAMP Stack platform with the CodeIgniter framework and Grocery CRUD library. 
+<b>Languages used:</b> HTML, CSS, PHP and SQL(for storing data about Officials). 
 
-Languages used: HTML, CSS, PHP and SQL(for storing data about Officials). 
 
-The below are screenshots of the system's view:
+## 2. System Look
+The below are screenshots of the running system.
 
-## 1. Login page
-![Login page](system_pictures/1-loginPage.jpg)
+## 2.1 Login page
+![Login page](systemPictures/1-loginPage.jpg)
  
-## 2. Initial system look
-![Initial system look](system_pictures/2-initialSystemLook.jpg)
-<br>
-<br>
-===============================================================<br>
-VAMOOS SYSTEM [installation guide]:
+## 2.2 Initial system look
+![Initial system look](systemPictures/2-initialSystemLook.jpg)
 
+
+## 3. Installation  
 1. Download EasyPHP development platform from:
 http://www.easyphp.org/
 
@@ -52,4 +61,9 @@ http://www.easyphp.org/
 login: f.lampard@vamoos.com 
 password: frank
 
-10. Any questions? Please contact me on lukaszbol@yahoo.co.uk
+## 4. The Repository  
+## 5. Future Development  
+## 6. Help  
+Please do not hesitate to contact me on the below e-mail if you encounter any problems or need further information.
+Contact: <b>lukaszbol[at]yahoo[dot]co[dot]uk</b>
+
