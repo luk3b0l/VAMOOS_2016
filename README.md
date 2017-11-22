@@ -70,7 +70,7 @@ password: frank
 Future development of this management system may include:
 - users' passwords encryption and their storage as encrypted data in a database
 - assure full automation of the system has been reached
-- improve user interface
+- add RIO 2016 logo to all tabs (not only Login and Home sections)
 - improve help section
 
 ## 6. Help  
