@@ -62,6 +62,10 @@ login: f.lampard@vamoos.com
 password: frank
 
 ## 4. The Repository  
+- systemEvaluation, teamRoles - information about my roles/responsibilities in this project, system functionality, project's analysis and reflection
+- systemMiscellaneous - Data Dictionary (including database information on tables/columns names, data types, primary/foreign keys and similar), Test Plan (including system's tests with test data and expected/actual outcome), Entity-Relationship diagram
+- systemPictures - pictures of a running system
+- vamoos - the actual directory with the project, including 'vamoos.sql' database file
 ## 5. Future Development  
 ## 6. Help  
 Please do not hesitate to contact me on the below e-mail if you encounter any problems or need further information.
