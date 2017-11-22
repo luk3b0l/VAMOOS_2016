@@ -67,6 +67,12 @@ password: frank
 - systemPictures - pictures of a running system
 - vamoos - the actual directory with the project, including 'vamoos.sql' database file
 ## 5. Future Development  
+Future development of this management system may include:
+- users' passwords encryption and their storage as encrypted data in a database
+- assure full automation of the system has been reached
+- improve user interface
+- improve help section
+
 ## 6. Help  
 Please do not hesitate to contact me on the below e-mail if you encounter any problems or need further information.
 Contact: <b>lukaszbol[at]yahoo[dot]co[dot]uk</b>
