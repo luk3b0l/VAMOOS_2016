@@ -6,11 +6,15 @@
 2. System Look
 3. Installation
 4. The Repository
-5. Future Development
-6. Help
+5. What Went Wrong
+6. What I Have Learned
+7. Future Development
+8. Help
 
 
 ## 1. Project Description  
+<b>Date of the project: 03/2016   </b>
+
 This is a group project, completed for the Computer Science Development Exercise module in the 2015-16 academic year. My group scored 93%, which was the second best final mark across all students' groups. I was responsible for most of the back-end and front-end parts of the system, with a main concentration on a correct functionality followed by the client's User Acceptance Testing(UAT). I also focused on the User Interface Design, based on the Nielsen's 10 Usability Heuristic Principles including visibility of system status, error prevention, aestetic and minimalist design, as well as help and documentation. 
 <br><br>
 
@@ -61,19 +65,37 @@ http://www.easyphp.org/
 login: f.lampard@vamoos.com 
 password: frank
 
+   
 ## 4. The Repository  
 - systemEvaluation, teamRoles - information about my roles/responsibilities in this project, system functionality, project's analysis and reflection
 - systemMiscellaneous - Data Dictionary (including database information on tables/columns names, data types, primary/foreign keys and similar), Test Plan (including system's tests with test data and expected/actual outcome), Entity-Relationship diagram
 - systemPictures - pictures of a running system
 - vamoos - the actual directory with the project, including 'vamoos.sql' database file
-## 5. Future Development  
+
+## 5. What Went Wrong
+- not full system automation was achieved
+- version control not used which caused team members to work on different versions
+
+## 6. What I Have Learned
+- project planning
+- team work (best solution to efficient work on a larger project)
+- practical usage of Agile approach with utilisation of Sprint cycles
+- designing and implementing a database on a localhost
+- practical usage of SQL and MySQL RDBMS 
+- designing and implementing user interface
+- basic understanding of the Model-View-Controller architecture pattern
+- practical usage of HTML with elements of CSS and PHP
+
+
+## 7. Future Development  
 Future development of this management system may include:
 - users' passwords encryption and their storage as encrypted data in a database
 - assure full automation of the system has been reached
 - add RIO 2016 logo to all tabs (not only Login and Home sections)
 - improve help section
 
-## 6. Help  
+   
+## 8. Help  
 Please do not hesitate to contact me on the below e-mail if you encounter any problems or need further information.
 Contact: <b>lukaszbol[at]yahoo[dot]co[dot]uk</b>
 
