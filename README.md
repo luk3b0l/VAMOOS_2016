@@ -38,8 +38,64 @@ The below are screenshots of the running system.
 ## 2.1 Login page
 ![Login page](systemPictures/1-loginPage.jpg)
  
-## 2.2 Initial system look
-![Initial system look](systemPictures/2-initialSystemLook.jpg)
+## 2.2 Home screen after logging in 
+![Home screen](systemPictures/2-homeScreenAfterLogin.jpg)
+
+## 2.3 'Sports' tab
+![Sports tab](systemPictures/3-sportsTab.jpg)
+
+## 2.4 'Venues' tab
+![Venues tab](systemPictures/4-venuesTab.jpg)
+
+## 2.5 'Events' tab
+![Events tab](systemPictures/5-eventsTab.jpg)
+
+## 2.6 'Officials' tab
+![Officials tab](systemPictures/6-officialsTab.jpg)
+
+## 2.7 'Cards' tab
+![Cards tab](systemPictures/7-cardsTab.jpg)
+
+## 2.8 'Entry Logs' tab
+![Entry Logs tab](systemPictures/8-entryLogsTab.jpg)
+
+## 2.9 'Authorisations of Card' tab
+![Card Authorisations tab](systemPictures/9-cardAuthorisations.jpg)
+
+## 2.10 'Access Check' tab
+### 2.10.1 'Access Check' - initial view
+![Access Check initial](systemPictures/10-accessCheckInitial.jpg)
+
+### 2.10.2 'Access Check' - data input (correct)
+![Access Check data input](systemPictures/11-accessCheckInputData.jpg)
+
+### 2.10.3 'Access Check' - access GRANTED
+![Access Check access granted](systemPictures/12-accessCheckAccessGranted.jpg)
+
+### 2.10.4 'Access Check' - data input 2 (incorrect)
+![Access Check data input 2](systemPictures/13-accessCheckInputData2.jpg)
+
+### 2.10.5 'Access Check' - access DENIED
+![Access Check access granted](systemPictures/14-accessCheckAccessDenied.jpg)
+
+## 2.11 'Update Venue' tab
+![Update Venue tab](systemPictures/15-updateVenueTab.jpg)
+
+## 2.12 'Expire Individual' tab
+![Expire Individual tab](systemPictures/16-expireIndividualTab.jpg)
+
+## 2.13 'Expire Group' tab
+![Expire Group tab](systemPictures/17-expireGroupTab.jpg)
+
+## 2.14 'Expire/Cancel All' tab
+![Expire/Cancel All tab](systemPictures/18-expireCancelAllTab.jpg)
+
+## 2.15 'Help' tab
+### 2.15.1 'Help' - top of the page view
+![Help tab top of the page](systemPictures/19-helpTab1.jpg)
+
+### 2.15.2 'Help' - further page snippet of the Help section
+![Help further page snippet](systemPictures/20-helpTab2.jpg)
 
 
 ## 3. Installation  
